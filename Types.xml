@@ -1,0 +1,993 @@
+<types>
+    <type name="RP_GhillieAtt_BlkCamo">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_GhillieAtt_DrkGrnCamoV3">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_GhillieHood_RedBlkMossyv3">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_GhillieHood_BlkCamoMossyv3">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_GhillieHood_DrkGrnCamoMossyV3">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_GhillieHood_RedMossyv3">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_Ghillie_Mossyv3">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_Ghilliev3_RedMossy">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_Ghilliev3_RedBlkMossy">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_Ghilliev3_BlackCamoMossy">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_Ghillie_DarkGreenMossyV3">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    
+    <type name="RP_BlueCamoHelmet">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PinkCamoHelmet">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PurpleCamoHelmet">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_BlueCamoPlateCarrierVest">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PinkCamoPlateCarrierVest">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PurpleCamoPlateCarrierVest">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_BlueCamoUSMCJacket">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PinkCamoUSMCJacket">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PurpleCamoUSMCJacket">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PolicePants">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_BlueCamoUSMCPants">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PurpleCamoUSMCPants">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PinkCamoUSMCPants">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_BlueCamoBoots">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PurpleCamoBoots">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PinkCamoBoots">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_PinkCamoBoots">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+    <type name="RP_GBMask">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+    
+    <type name="RP_BeavisButthead_Vest">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+    
+	<type name="RP_GBShirt">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+    <type name="RP_GBPants">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Coast"/>
+		<usage name="Town"/>
+		<usage name="Village"/>
+    </type>
+	<type name="RP_AquaBushrag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_AquaGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_BrightYellowBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_BrightYellowGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_DarkBlueBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_DarkBlueGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_GreenLeafBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_GreenLeafGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_GreenBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_GreenGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_GreyBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_GreyGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_LightPurpleBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_LightPurpleGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_MossyGreenBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_MossyGreenGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_MultiColorBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_MultiColorGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_PinkBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_PinkGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_PurpleBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_PuprleGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_RainbowBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_RainbowGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_RedBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_RedGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_TanBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_TanGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_BlackCamoBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_BlackCamoGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_DrkGreenBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_DrkGreenGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_RedBlkBushRag">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+    </type>
+	<type name="RP_RedBlkGhillieTop">
+        <nominal>6</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>1800</restock>
+        <min>5</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="1" crafted="0" deloot="0"/>
+        <category name="clothes"/>
+		<usage name="Military"/>
+		<usage name="Police"/>
+		<usage name="Hunting"/>
+		<usage name="Prison"/>
+	</type>
+  </types>
+
+    

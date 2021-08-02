@@ -1,0 +1,197 @@
+<CurrencyName> #tm_ruble							// Currency Name (Only used for the Text in the upper right Corner of the Trader Menu)
+	<Currency> MoneyRuble1, 	1					// Currency Classname, Currency Money Value
+	<Currency> MoneyRuble5, 	5
+	<Currency> MoneyRuble10, 	10
+	<Currency> MoneyRuble25, 	25
+	<Currency> MoneyRuble50, 	50
+	<Currency> MoneyRuble100, 	100
+
+<Trader> Psycho Clothes
+	<Category>Ghillies
+	RP_GhillieAtt_CamoNet,				*,	300,	200
+	RP_GhillieAtt_CamoNet_Winter,		*,	300,	200
+	RP_GhillieAtt_Aqua,					*,	300,	200
+	RP_GhillieAtt_Yellow,				*,	300,	200
+	RP_GhillieAtt_DarkBlue,				*,	300,	200
+	RP_GhillieAtt_GreenLeaf,			*,	300,	200
+	RP_GhillieAtt_Grey,					*,	300,	200
+	RP_GhillieAtt_LightPurple,			*,	300,	200
+	RP_GhillieAtt_Purple,				*,	300,	200
+	RP_GhillieAtt_Rainbow,				*,	300,	200
+	RP_GhillieAtt_Dessert,				*,	300,	200
+	RP_GhillieAtt_Multi,				*,	300,	200
+	RP_GhillieAtt_Red,					*,	300,	200
+	RP_GhillieAtt_Pink,					*,	300,	200
+	RP_GhillieAtt_Tan,					*,	300,	200
+	RP_GhillieAtt_GreenWoodland,		*,	300,	200
+	RP_GhillieAtt_MossyGreen,			*,	300,	200
+	RP_GhillieAtt_BlkCamo,				*,	300,	200
+	RP_GhillieAtt_DrkGrnCamoV3,			*,	300,	200
+	RP_GhillieHood_Woodland,			*,	300,	200
+	RP_GhillieHood_Mossy,				*,	300,	200
+	RP_GhillieHood_Tan,					*,	300,	200
+	RP_GhillieHood_Pink,				*,	300,	200
+	RP_GhillieHood_Purple,				*,	300,	200
+	RP_GhillieHood_LightPurple,			*,	300,	200
+	RP_GhillieHood_Red,					*,	300,	200
+	RP_GhillieHood_Multi,				*,	300,	200
+	RP_GhillieHood_Aqua,				*,	300,	200
+	RP_GhillieHood_BrightYellow,		*,	300,	200
+	RP_GhillieHood_DarkBlue,			*,	300,	200
+	RP_GhillieHood_GreenLeaf,			*,	300,	200
+	RP_GhillieHood_Grey,				*,	300,	200
+	RP_GhillieHood_Rainbow,				*,	300,	200
+	RP_GhillieHood_StrawVanil,			*,	300,	200
+	RP_GhillieHood_RedBlkMossyv3,		*,	300,	200
+	RP_GhillieHood_RedMossyv3,			*,	300,	200
+	RP_GhillieHood_BlkCamoMossyv3,		*,	300,	200
+	RP_GhillieHood_DrkGrnCamoMossyV3,	*,	300,	200
+	RP_MossyGreenSuit_Ghillie,			*,	1000,	500
+	RP_TanGhillie_Suit,					*,	1000,	500
+	RP_GreenSuit_Ghillie,				*,	1000,	500
+	RP_RedGhillie_Suit,					*,	1000,	500
+	RP_MultiColourSuit_Ghillie,			*,	1000,	500
+	RP_PinkGhillie_Suit,				*,	1000,	500
+	RP_PurpleGhillie_Suit,				*,	1000,	500
+	RP_LightPurpleGhillie_Suit,			*,	1000,	500
+	RP_AquaGhillie_Suit,				*,	1000,	500
+	RP_BrightYellowGhillie_Suit,		*,	1000,	500
+	RP_DarkBlueGhillie_Suit,			*,	1000,	500
+	RP_GreenLeafGhillie_Suit,			*,	1000,	500
+	RP_GreyGhillie_Suit,				*,	1000,	500
+	RP_RainbowGhillie_Suit,				*,	1000,	500
+	RP_StrawVanil_Ghillie,				*,	1000,	500
+	RP_Ghillie_Mossyv3,					*,	1000,	500
+	RP_Ghilliev3_RedMossy,				*,	1000,	500
+	RP_Ghilliev3_RedBlkMossy,			*,	1000,	500
+	RP_Ghilliev3_BlackCamoMossy,		*,	1000,	500
+	RP_Ghillie_DarkGreenMossyV3,		*,	1000,	500
+	RP_GhillieSuit_CamoNet,				*,	1000,	500
+	RP_GhillieSuit_CamoNet_Winter,		*,	1000,	500
+	RP_GhillieHood_CamoNet,				*,	300,	200
+	RP_GhillieHood_CamoNet_Winter,		*,	300,	200
+	RP_AquaBushrag,						*,	300,	200
+	RP_AquaGhillieTop,					*,	300,	200
+	RP_BrightYellowBushRag,				*,	300,	200
+	RP_BrightYellowGhillieTop,			*,	300,	200
+	RP_DarkBlueBushRag,					*,	300,	200
+	RP_DarkBlueGhillieTop,				*,	300,	200
+	RP_GreenLeafBushRag,				*,	300,	200
+	RP_GreenLeafGhillieTop,				*,	300,	200
+	RP_GreenBushRag,					*,	300,	200
+	RP_GreenGhillieTop,					*,	300,	200
+	RP_GreyBushRag,						*,	300,	200
+	RP_GreyGhillieTop,					*,	300,	200
+	RP_LightPurpleBushRag,				*,	300,	200
+	RP_LightPurpleGhillieTop,			*,	300,	200
+	RP_MossyGreenBushRag,				*,	300,	200
+	RP_MossyGreenGhillieTop,			*,	300,	200
+	RP_MultiColorBushRag,				*,	300,	200
+	RP_MultiColorGhillieTop,			*,	300,	200
+	RP_PinkBushRag,						*,	300,	200
+	RP_PinkGhillieTop,					*,	300,	200
+	RP_PurpleBushRag,					*,	300,	200
+	RP_PurpleGhillieTop,				*,	300,	200
+	RP_RainbowBushRag,					*,	300,	200
+	RP_RainbowGhillieTop,				*,	300,	200
+	RP_RedBushRag,						*,	300,	200
+	RP_RedGhillieTop,					*,	300,	200
+	RP_TanBushRag,						*,	300,	200
+	RP_TanGhillieTop,					*,	300,	200
+	RP_BlackCamoBushRag,				*,	300,	200
+	RP_BlackCamoGhillieTop,				*,	300,	200
+	RP_DrkGreenBushRag,					*,	300,	200
+	RP_DrkGreenGhillieTop,				*,	300,	200
+	RP_RedBlkBushRag,					*,	300,	200
+	RP_RedBlkGhillieTop,				*,	300,	200
+
+	<Category>Gloves/Helmets
+	RP_GBMask,							*,	50,		25
+	RP_BatmanGP5_Mask,					*,	50,		25
+	RP_SmileyGP5_Mask,					*,	50,		25
+	RP_RiddlerBeanie_Hat,				*,	50,		25
+	RP_SmileyBeanie_Hat,				*,	50,		25
+	RP_BlueCamoHelmet,					*,	250,	125
+	RP_PinkCamoHelmet,					*,	250,	125
+	RP_PurpleCamoHelmet,				*,	250,	125
+	
+	<Category>Vests
+	RP_PsychoBill_Vest,					*,	150,	75
+	RP_Farmhand_Vest,					*,	150,	75
+	RP_Cartel_Vest,						*,	150,	75
+	RP_Generic_Vest,					*,	150,	75
+	RP_BeavisButthead_Vest,				*,	150,	75
+	RP_BlueCamoPlateCarrierVest,		*,	500,	250
+	RP_PinkCamoPlateCarrierVest,		*,	500,	250
+	RP_PurpleCamoPlateCarrierVest,		*,	500,	250
+	
+	<Category>Shirts/Jackets
+	RP_PineSkull_Shirt,					*,	100,	50
+	RP_MultiSkull_Shirt,				*,	100,	50
+	RP_Fear_Hoodie,						*,	100,	50
+	RP_Narduar_Tshirt,					*,	100,	50
+	RP_Batman_Plane_Shirt,				*,	100,	50
+	RP_Riddler_Plane_Shirt,				*,	100,	50
+	RP_Smiley_Plane_Shirt,				*,	100,	50
+	RP_GBShirt,							*,	150,	75
+	RP_BlueCamoUSMCJacket,				*,	200,	100
+	RP_PinkCamoUSMCJacket,				*,	200,	100
+	RP_PurpleCamoUSMCJacket,			*,	200,	100
+	
+	<Category>Pants
+	RP_GBPants,							*,	50,		25
+	RP_BatmanCargo_Pants,				*,	50,		25
+	RP_RiddlerCargo_Pants,				*,	50,		25
+	RP_SmileyCargo_Pants,				*,	50,		25
+	RP_BlueCamoUSMCPants,				*,	200,	100
+	RP_PurpleCamoUSMCPants,				*,	200,	100
+	RP_PinkCamoUSMCPants,				*,	200,	100
+	
+	<Category>Boots
+	RP_BlueCamoBoots,					*,	50,		25
+	RP_PurpleCamoBoots,					*,	50,		25
+	RP_PinkCamoBoots,					*,	50,		25
+	
+	<Category>Hoarder Gear
+	RP_DarkCamoUSMCPantsV3,					*,	4000,	2000
+	RP_DarkCamoUSMCJacketV3,				*,	4000,	2000
+	RP_PlateCarrierHolsterV3,				*,	50,		25
+	RP_DarkCamoPlateCarrierPouchesV3,		*,	1000,	500
+	RP_DarkCamoPlateV3,						*,	8000,	4000
+	RP_BlackCamoUSMCPantsV3,				*,	4000,	2000
+	RP_BlackCamoUSMCJacketV3,				*,	4000,	2000
+	RP_BlackCamoPlateCarrierHolsterV3,		*,	50,		25
+	RP_BlackCamoPlateCarrierPouchesV3,		*,	1000,	500
+	RP_BlackCamoPlateV3,					*,	8000,	4000
+	RP_DarkGreenCamoUSMCPantsV3,			*,	4000,	2000
+	RP_DarkGreenCamoUSMCJacketV3,			*,	4000,	2000
+	RP_DarkGreenPlateCarrierHolsterV3,		*,	50,		25
+	RP_DarkGreenCamoPlateCarrierPouchesV3,	*,	1000,	500
+	RP_DarkGreenCamoPlateV3,				*,	8000,	4000
+	RP_90sCamoUSMCPantsV3,					*,	4000,	2000
+	RP_90sCamoUSMCJacketV3,					*,	4000,	2000
+	RP_90sPlateCarrierHolsterV3,			*,	50,		25
+	RP_90sCamoPlateCarrierPouchesV3,		*,	1000,	500
+	RP_90sCamoPlateV3,						*,	8000,	4000
+	RP_GhillieAtt_BlkCamo,					*,	300,	200
+	RP_GhillieHood_BlkCamoMossyv3,			*,	300,	200
+	RP_Ghilliev3_BlackCamoMossy,			*,	1000,	500
+	RP_GhillieAtt_DrkGrnCamoV3,				*,	300,	200
+	RP_GhillieHood_DrkGrnCamoMossyV3,		*,	300,	200
+	RP_Ghillie_DarkGreenMossyV3,			*,	1000,	500
+	
+	<Category>Items
+	RP_Lube_Barrel,							*,	250,	125				
+	RP_TweedCan1,							*,	25,		10
+	RP_TweedCan2,							*,	25,		10
+	
+
+	
+	
+	
+	
+	
+	
+	
+
+	

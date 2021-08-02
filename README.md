@@ -7,7 +7,7 @@
 * Ghillies have extra slots aswell as being on the armband slot. 
 * Random t-shirts, pants, jackets, and camo clothes. Pop cans, and a barrel.
  
- Types,TraderConfig included. May be missing some, not much though.
+ Types, TraderConfig included. May be missing some, not much though.
  
  Resign the Pbo, and throw into your server!
  

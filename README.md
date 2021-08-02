@@ -1,7 +1,7 @@
 # Retextures 
 ![alt text](https://i.imgur.com/IZXvqEO.png "Welcome")
- ## Retextures Ive made, and are not being used anymore
-## Over 150 different retextures. They were used on the Psycho Gaming Server, which is why the name says PsychoClothes. Personal items have been taken out.
+ ## Over 150 different retextures Ive made, and are not being used anymore
+### They were used on the Psycho Gaming Server, which is why the name says PsychoClothes. Personal items have been taken out.
  
 * There is some "Hoarder Gear", Lots of slots for attachments and for items. 
 * A bunch of random colored ghillies with matching wraps. 
